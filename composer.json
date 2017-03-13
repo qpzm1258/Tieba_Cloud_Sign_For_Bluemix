@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpzip/phpzip": ">=2.0.7",
+        "ext-mysqli": "*",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-zip": "*",
+        "ext-zlib": "*",
+        "ext-pdo": "*"
+    }
+}
