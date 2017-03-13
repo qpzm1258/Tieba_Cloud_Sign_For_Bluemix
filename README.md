@@ -1,9 +1,10 @@
 #百度贴吧云签到
 源码地址：https://git.oschina.net/kenvix/Tieba-Cloud-Sign.git
+
 在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。     
 配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。     
 获取插件，教程，扩展，资料等请前往Wiki [Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign/wikis/home) [GitHub](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)              
-##开发者
+##感谢源开发者
 贴吧云签到是一个开放的开源项目，任何人均可参与开发，Pull Request即可提交您修改的代码     
 Pull Request和Issue请提交到 Git@OSC 代码库，在其他代码库提交可能不会被处理     
 如需加入开发组请联系 @Kenvix 
