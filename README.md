@@ -62,3 +62,8 @@ Pull Request和Issue请提交到 Git@OSC 代码库，在其他代码库提交可能不会被处理
 用于配置运行环境，[参考文档](https://console.ng.bluemix.net/docs/manageapps/depapps.html#app_env)
 ###manifest.yml
 App配置文件,[参考文档](https://console.ng.bluemix.net/docs/manageapps/depapps.html#appmanifest)
+###bluemix不能设置crontab执行do.php的解决方案
+另找一台能只运行crontab并且安装了curl的服务器，添加一下定期执行内容
+```
+    0 */2 * * * curl -s http://[Cloud Foundry 应用名].mybluemix.net/tiebacloudsign/do.php >> /dev/null 2>&1 &
+```
