@@ -46,10 +46,10 @@ Pull Request和Issue请提交到 Git@OSC 代码库，在其他代码库提交可
 另外，每一个大版本都会有一个升级脚本，别忘了运行它     
 （文件名一般为 update旧版本to新版本.php ，例如 update1.0to2.0.php）
 
-##Bluemix环境设置附注
-###[bluemix php环境入门](https://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-fundamentals-create-and-deploy-a-php-app-to-the-cloud/index.html)
+## Bluemix环境设置附注
+### [bluemix php环境入门](https://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-fundamentals-create-and-deploy-a-php-app-to-the-cloud/index.html)
 
-###composer.json
+### composer.json
 用于配置php环境以及extension模块
 ```
     {
