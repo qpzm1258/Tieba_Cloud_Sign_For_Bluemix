@@ -1,70 +1,70 @@
-#°Ù¶ÈÌù°ÉÔÆÇ©µ½
-Ô´ÂëµØÖ·£ºhttps://git.oschina.net/kenvix/Tieba-Cloud-Sign.git
+# ç™¾åº¦è´´å§äº‘ç­¾åˆ°
+æºç åœ°å€ï¼šhttps://git.oschina.net/kenvix/Tieba-Cloud-Sign.git
 
-ÔÚ·þÎñÆ÷ÉÏÅäÖÃºÃ¾ÍÎÞÐè½øÐÐÈÎºÎ²Ù×÷±ã¿ÉÒÔÊµÏÖÌù°ÉµÄÈ«×Ô¶¯Ç©µ½¡£     
-ÅäºÏ²å¼þÊ¹ÓÃ»¹¿ÉÊµÏÖÔÆ¹àË®¡¢µãÔÞ¡¢·â½û¡¢É¾Ìû¡¢Éó²éµÈ¹¦ÄÜ¡£     
-»ñÈ¡²å¼þ£¬½Ì³Ì£¬À©Õ¹£¬×ÊÁÏµÈÇëÇ°ÍùWiki [Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign/wikis/home) [GitHub](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)              
-##¸ÐÐ»Ô´¿ª·¢Õß
-Ìù°ÉÔÆÇ©µ½ÊÇÒ»¸ö¿ª·ÅµÄ¿ªÔ´ÏîÄ¿£¬ÈÎºÎÈË¾ù¿É²ÎÓë¿ª·¢£¬Pull Request¼´¿ÉÌá½»ÄúÐÞ¸ÄµÄ´úÂë     
-Pull RequestºÍIssueÇëÌá½»µ½ Git@OSC ´úÂë¿â£¬ÔÚÆäËû´úÂë¿âÌá½»¿ÉÄÜ²»»á±»´¦Àí     
-ÈçÐè¼ÓÈë¿ª·¢×éÇëÁªÏµ @Kenvix 
-###¿ª·¢ÕßÁÐ±í
-####Ö÷Òª
+åœ¨æœåŠ¡å™¨ä¸Šé…ç½®å¥½å°±æ— éœ€è¿›è¡Œä»»ä½•æ“ä½œä¾¿å¯ä»¥å®žçŽ°è´´å§çš„å…¨è‡ªåŠ¨ç­¾åˆ°ã€‚     
+é…åˆæ’ä»¶ä½¿ç”¨è¿˜å¯å®žçŽ°äº‘çŒæ°´ã€ç‚¹èµžã€å°ç¦ã€åˆ å¸–ã€å®¡æŸ¥ç­‰åŠŸèƒ½ã€‚     
+èŽ·å–æ’ä»¶ï¼Œæ•™ç¨‹ï¼Œæ‰©å±•ï¼Œèµ„æ–™ç­‰è¯·å‰å¾€Wiki [Git@OSC](https://git.oschina.net/kenvix/Tieba-Cloud-Sign/wikis/home) [GitHub](https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki)              
+## æ„Ÿè°¢æºå¼€å‘è€…
+è´´å§äº‘ç­¾åˆ°æ˜¯ä¸€ä¸ªå¼€æ”¾çš„å¼€æºé¡¹ç›®ï¼Œä»»ä½•äººå‡å¯å‚ä¸Žå¼€å‘ï¼ŒPull Requestå³å¯æäº¤æ‚¨ä¿®æ”¹çš„ä»£ç      
+Pull Requestå’ŒIssueè¯·æäº¤åˆ° Git@OSC ä»£ç åº“ï¼Œåœ¨å…¶ä»–ä»£ç åº“æäº¤å¯èƒ½ä¸ä¼šè¢«å¤„ç†     
+å¦‚éœ€åŠ å…¥å¼€å‘ç»„è¯·è”ç³» @Kenvix 
+### å¼€å‘è€…åˆ—è¡¨
+#### ä¸»è¦
 @Kenvix [kenvix@qq.com]     
-####Ð­Öú
+#### ååŠ©
 @mokeyjay [i@mokeyjay.com]     
 @fyy99 [fyod@qq.com]
-####ÈÈÐÄ¹±Ï×Õß
-ÒÔÏÂ¼¸Î»·´À¡/½â¾öÁË³ÌÐòµÄ²»×ãÖ®´¦£¬ÌØ´Ë¸ÐÐ»     
+#### çƒ­å¿ƒè´¡çŒ®è€…
+ä»¥ä¸‹å‡ ä½åé¦ˆ/è§£å†³äº†ç¨‹åºçš„ä¸è¶³ä¹‹å¤„ï¼Œç‰¹æ­¤æ„Ÿè°¢     
 @Ver4 [i@v4.hk]     
 @kirainmoe [kotori@wo.cn]     
 @VFleaKing [liuhaotian0520@163.com]     
 @superxzr [a457418121@gmail.com]         
-Ã»ÓÐÉÌÒµ°æ£¡Ã»ÓÐÉÌÒµ°æ£¡Ã»ÓÐÉÌÒµ°æ£¡  
+æ²¡æœ‰å•†ä¸šç‰ˆï¼æ²¡æœ‰å•†ä¸šç‰ˆï¼æ²¡æœ‰å•†ä¸šç‰ˆï¼  
 
-##³£¼ûÎÊÌâ½â¾ö·½°¸
-¡°ÍùÍù´ó²¿·ÖÈË°²×°³ö´íµÚÒ»·´Ó¦¶¼ÊÇ£ºÃ»´í°¡£¬ÄÄÀï´íÁË£¬Ò»¶¨ÊÇ³ÌÐò´íÁË¡±
-#####1.ÈçºÎ°²×°³ÌÐò
-ÉÏ´«´Ë³ÌÐòµ½ÄúµÄÍøÕ¾£¬È»ºó·ÃÎÊÄúµÄÍøÕ¾
-#####2.ÈçºÎ¿ªÆô MySQL Á¬½Ó·½Ê½Ç¿ÖÆ¹¦ÄÜ
-Èç¹ûÊý¾Ý¿âÅäÖÃÕýÈ·£¬µ«Á¬½ÓÊý¾Ý¿âÊ§°Ü£¨´íÎó´úÂë 20XX£©£¬¿ÉÊ¹ÓÃ´Ë·½·¨     
-´ò¿ª   mysql_autoload.php     
-ÕÒµ½   define('SQLMODE', 'mysqli');     
-Ìæ»»Îª define('SQLMODE', 'mysql');
-#####3.ÈçºÎ¿ªÆôÊý¾Ý¿â³¤Á¬½Ó
-´ò¿ª   mysql_autoload.php     
-ÕÒµ½   define('LONGSQL', false);     
-Ìæ»»Îª define('LONGSQL', true); 
-#####4.ÈçºÎÊÖ¶¯ÐÞ¸ÄÊý¾Ý¿âÅäÖÃ
-´ò¿ª config.php ²¢°´ÕÕÀïÃæµÄ×¢ÊÍÐÞ¸Ä     
-ÇÐÎðÊ¹ÓÃ¼ÇÊÂ±¾±à¼­£¬·ñÔò³ÌÐò½«²»ÄÜ¹¤×÷
-#####5.ÈçºÎÊÖ¶¯µ¼ÈëÊý¾Ý¿â
-´ò¿ª /setup/install.template.sql ²¢°´ÕÕÀïÃæµÄ×¢ÊÍÐÞ¸Ä
-#####6.ÈçºÎ°²×°ÐÂ°æ±¾
-£¨1£©×Ô¶¯¸üÐÂ£ºÇ°Íù ¼ì²é¸üÐÂ ¸üÐÂ³ÌÐò¼´¿É     
-£¨2£©ÊÖ¶¯¸üÐÂ£ºÖ±½ÓÏÂÔØ Zip£¬É¾³ýÑ¹Ëõ°üÄÚµÄ config.php £¬È»ºóÉÏ´«µ½ÄúµÄÍøÕ¾¼´¿É     
-ÁíÍâ£¬Ã¿Ò»¸ö´ó°æ±¾¶¼»áÓÐÒ»¸öÉý¼¶½Å±¾£¬±ðÍüÁËÔËÐÐËü     
-£¨ÎÄ¼þÃûÒ»°ãÎª update¾É°æ±¾toÐÂ°æ±¾.php £¬ÀýÈç update1.0to2.0.php£©
+## å¸¸è§é—®é¢˜è§£å†³æ–¹æ¡ˆ
+â€œå¾€å¾€å¤§éƒ¨åˆ†äººå®‰è£…å‡ºé”™ç¬¬ä¸€ååº”éƒ½æ˜¯ï¼šæ²¡é”™å•Šï¼Œå“ªé‡Œé”™äº†ï¼Œä¸€å®šæ˜¯ç¨‹åºé”™äº†â€
+##### 1.å¦‚ä½•å®‰è£…ç¨‹åº
+ä¸Šä¼ æ­¤ç¨‹åºåˆ°æ‚¨çš„ç½‘ç«™ï¼Œç„¶åŽè®¿é—®æ‚¨çš„ç½‘ç«™
+##### 2.å¦‚ä½•å¼€å¯ MySQL è¿žæŽ¥æ–¹å¼å¼ºåˆ¶åŠŸèƒ½
+å¦‚æžœæ•°æ®åº“é…ç½®æ­£ç¡®ï¼Œä½†è¿žæŽ¥æ•°æ®åº“å¤±è´¥ï¼ˆé”™è¯¯ä»£ç  20XXï¼‰ï¼Œå¯ä½¿ç”¨æ­¤æ–¹æ³•     
+æ‰“å¼€   mysql_autoload.php     
+æ‰¾åˆ°   define('SQLMODE', 'mysqli');     
+æ›¿æ¢ä¸º define('SQLMODE', 'mysql');
+##### 3.å¦‚ä½•å¼€å¯æ•°æ®åº“é•¿è¿žæŽ¥
+æ‰“å¼€   mysql_autoload.php     
+æ‰¾åˆ°   define('LONGSQL', false);     
+æ›¿æ¢ä¸º define('LONGSQL', true); 
+##### 4.å¦‚ä½•æ‰‹åŠ¨ä¿®æ”¹æ•°æ®åº“é…ç½®
+æ‰“å¼€ config.php å¹¶æŒ‰ç…§é‡Œé¢çš„æ³¨é‡Šä¿®æ”¹     
+åˆ‡å‹¿ä½¿ç”¨è®°äº‹æœ¬ç¼–è¾‘ï¼Œå¦åˆ™ç¨‹åºå°†ä¸èƒ½å·¥ä½œ
+##### 5.å¦‚ä½•æ‰‹åŠ¨å¯¼å…¥æ•°æ®åº“
+æ‰“å¼€ /setup/install.template.sql å¹¶æŒ‰ç…§é‡Œé¢çš„æ³¨é‡Šä¿®æ”¹
+##### 6.å¦‚ä½•å®‰è£…æ–°ç‰ˆæœ¬
+ï¼ˆ1ï¼‰è‡ªåŠ¨æ›´æ–°ï¼šå‰å¾€ æ£€æŸ¥æ›´æ–° æ›´æ–°ç¨‹åºå³å¯     
+ï¼ˆ2ï¼‰æ‰‹åŠ¨æ›´æ–°ï¼šç›´æŽ¥ä¸‹è½½ Zipï¼Œåˆ é™¤åŽ‹ç¼©åŒ…å†…çš„ config.php ï¼Œç„¶åŽä¸Šä¼ åˆ°æ‚¨çš„ç½‘ç«™å³å¯     
+å¦å¤–ï¼Œæ¯ä¸€ä¸ªå¤§ç‰ˆæœ¬éƒ½ä¼šæœ‰ä¸€ä¸ªå‡çº§è„šæœ¬ï¼Œåˆ«å¿˜äº†è¿è¡Œå®ƒ     
+ï¼ˆæ–‡ä»¶åä¸€èˆ¬ä¸º updateæ—§ç‰ˆæœ¬toæ–°ç‰ˆæœ¬.php ï¼Œä¾‹å¦‚ update1.0to2.0.phpï¼‰
 
-##Bluemix»·¾³ÉèÖÃ¸½×¢
-###[bluemix php»·¾³ÈëÃÅ](https://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-fundamentals-create-and-deploy-a-php-app-to-the-cloud/index.html)
+##BluemixçŽ¯å¢ƒè®¾ç½®é™„æ³¨
+###[bluemix phpçŽ¯å¢ƒå…¥é—¨](https://www.ibm.com/developerworks/cn/cloud/library/cl-bluemix-fundamentals-create-and-deploy-a-php-app-to-the-cloud/index.html)
 
 ###composer.json
-ÓÃÓÚÅäÖÃphp»·¾³ÒÔ¼°extensionÄ£¿é
+ç”¨äºŽé…ç½®phpçŽ¯å¢ƒä»¥åŠextensionæ¨¡å—
 ```
     {
         "require": {
-            "Ä£¿éÃû×Ö": "°æ±¾ºÅ£¨*Îª²»Ö¸¶¨°æ±¾£©"
+            "æ¨¡å—åå­—": "ç‰ˆæœ¬å·ï¼ˆ*ä¸ºä¸æŒ‡å®šç‰ˆæœ¬ï¼‰"
         }
     }
 ```
-²Î¿¼[composer°ïÖúÎÄµµ](https://getcomposer.org/doc/04-schema.md)
-###.env.example
-ÓÃÓÚÅäÖÃÔËÐÐ»·¾³£¬[²Î¿¼ÎÄµµ](https://console.ng.bluemix.net/docs/manageapps/depapps.html#app_env)
-###manifest.yml
-AppÅäÖÃÎÄ¼þ,[²Î¿¼ÎÄµµ](https://console.ng.bluemix.net/docs/manageapps/depapps.html#appmanifest)
-###bluemix²»ÄÜÉèÖÃcrontabÖ´ÐÐdo.phpµÄ½â¾ö·½°¸
-ÁíÕÒÒ»Ì¨ÄÜÖ»ÔËÐÐcrontab²¢ÇÒ°²×°ÁËcurlµÄ·þÎñÆ÷£¬Ìí¼ÓÒ»ÏÂ¶¨ÆÚÖ´ÐÐÄÚÈÝ
+å‚è€ƒ[composerå¸®åŠ©æ–‡æ¡£](https://getcomposer.org/doc/04-schema.md)
+### .env.example
+ç”¨äºŽé…ç½®è¿è¡ŒçŽ¯å¢ƒï¼Œ[å‚è€ƒæ–‡æ¡£](https://console.ng.bluemix.net/docs/manageapps/depapps.html#app_env)
+### manifest.yml
+Appé…ç½®æ–‡ä»¶,[å‚è€ƒæ–‡æ¡£](https://console.ng.bluemix.net/docs/manageapps/depapps.html#appmanifest)
+### bluemixä¸èƒ½è®¾ç½®crontabæ‰§è¡Œdo.phpçš„è§£å†³æ–¹æ¡ˆ
+å¦æ‰¾ä¸€å°èƒ½åªè¿è¡Œcrontabå¹¶ä¸”å®‰è£…äº†curlçš„æœåŠ¡å™¨ï¼Œæ·»åŠ ä¸€ä¸‹å®šæœŸæ‰§è¡Œå†…å®¹
 ```
-    0 */2 * * * curl -s http://[Cloud Foundry Ó¦ÓÃÃû].mybluemix.net/tiebacloudsign/do.php >> /dev/null 2>&1 &
+    0 */2 * * * curl -s http://[Cloud Foundry åº”ç”¨å].mybluemix.net/tiebacloudsign/do.php >> /dev/null 2>&1 &
 ```
